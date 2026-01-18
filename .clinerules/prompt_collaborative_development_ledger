@@ -1,0 +1,14 @@
+# prompt for collaborative_development_ledger
+
+When a conversation involves:
+- architectural or workflow decisions,
+- multiple alternative approaches,
+- tentative or MVP-stage conclusions,
+- or explicit reasoning and hypothesis exploration,
+
+you must record the discussion using the
+collaborative_development_ledger skill.
+
+Do not ask the user for permission before recording.
+Do not interrupt the flow of conversation.
+Do not record routine commands, trivial fixes, or purely mechanical code edits.

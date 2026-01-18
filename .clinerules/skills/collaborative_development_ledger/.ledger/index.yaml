@@ -1,0 +1,10 @@
+ledger_version: 1
+project: collaborative-development-ledger-demo
+
+entries:
+  - entry_id: 2026-01-25_replay-reasoning-design
+    topic: replay_reasoning 的 input_schema 設計取捨
+    status: exploring
+    created_at: 2026-01-25
+    last_updated: 2026-01-25
+    tags: [reasoning, design]
